@@ -37,3 +37,8 @@ button:hover{
     background-color: darkblue;
     cursor: pointer;
 }
+ul li{
+    font-size: 1.4rem;
+    margin : 1rem 0;
+
+}
